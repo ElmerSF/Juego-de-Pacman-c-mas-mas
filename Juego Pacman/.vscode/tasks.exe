@@ -1,0 +1,24 @@
+# 1 "c:\\Users\\Helmer\\Desktop\\Juego Pacman\\Juego Pacman\\.vscode\\tasks.json"
+# 1 "C:\\MinGW\\bin//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "c:\\Users\\Helmer\\Desktop\\Juego Pacman\\Juego Pacman\\.vscode\\tasks.json"
+{
+ "version": "2.0.0",
+ "tasks": [
+  {
+   "type": "shell",
+   "label": "C/C++: cpp.exe build active file",
+   "command": "g++",
+
+   "args": [
+    "-g", "main.cpp"
+       ],
+
+   "group": {
+    "kind": "build",
+    "isDefault": true
+   }
+  }
+ ]
+}

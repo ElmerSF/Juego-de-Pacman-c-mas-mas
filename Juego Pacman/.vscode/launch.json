@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "shell",
+            "label": "g++.exe build active file",
+            "command": "C:\\MinGW\\bin\\g++.exe",
+            "args": ["-g", "${file}", "-o", "${fileDirname}\\${fileBasenameNoExtension}.exe"],
+            "options": {
+              "cwd": "C:\\MinGW\\bin"
+            },
+            "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+            }
+          }
+
+    ]
+}

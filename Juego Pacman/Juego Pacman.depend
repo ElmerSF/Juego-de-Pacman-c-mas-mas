@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586638561 source:c:\users\helmer\desktop\juego pacman\juego pacman\main.cpp
+	<allegro.h>
+	<cstdlib>
+
+1586638561 source:c:\users\elmer\desktop\juego pacman\juego pacman\main.cpp
+	<allegro.h>
+	<cstdlib>
+
